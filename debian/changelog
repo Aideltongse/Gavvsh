@@ -1,0 +1,17 @@
+libgstperf (0.4.0-2) focal; urgency=medium
+
+  * Update debian
+
+ -- RidgeRun Engineering <support@ridgerun.com>  Fri, 19 Aug 2022 21:37:48 -0600
+
+libgstperf (0.4.0-1) UNRELEASED; urgency=medium
+
+  * Add last info property
+
+ -- RidgeRun Engineering <support@ridgerun.com>  Tue, 27 Apr 2021 18:00:00 -0600
+
+libgstperf (0.3.0-1) UNRELEASED; urgency=medium
+
+  * Initial .deb release
+
+ -- Christopher White <cwhite@d3engineering.com>  Mon, 19 Oct 2020 12:18:19 -0400
